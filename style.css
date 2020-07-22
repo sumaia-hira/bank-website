@@ -14,7 +14,8 @@
 #btn1st:hover {
     background-color: crimson;
    color: white;
-   font-size: 20px;
+   
+   
 }
 #login-area{
     margin: 150px 30px;
@@ -72,12 +73,12 @@
 #deposit-btn:hover {
     background-color: crimson;
    color: white;
-   font-size: 20px;
+   
 }
 #withdraw-btn:hover {
     background-color: crimson;
    color: white;
-   font-size: 20px;
+   
 }
 #leave-btn {
     background-color: crimson;
